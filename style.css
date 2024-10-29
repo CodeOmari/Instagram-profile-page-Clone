@@ -95,6 +95,12 @@ body{
 .icon{
   position: relative;
 }
+.icon .bx-search, .bx-compass, .bx-movie-play, .bxl-messenger, .bx-heart, .bx-menu{
+    font-size: 30px;
+}
+.icon .material-icons{
+    font-size: 30px;
+}
 .icon .navigation-tooltip{
     background-color: #363636;
     color: rgb(168, 168, 168);
